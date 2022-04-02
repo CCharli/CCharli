@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CCharli!
 
-- 👀 I’m interested in Web Dev, Software Engineering, and Digital Art.
+- 👀 I’m interested in Web Dev, Psychology, and Digital Art.
 
-- 🌱 I’m currently learning JavaScript, CSS, and Python as I complete my Bachelors of Science in Biology.
+- 🌱 I’m currently learning JavaScript, CSS, and HTML.
 
 - 💞️ I’m looking to collaborate on any project.
 
