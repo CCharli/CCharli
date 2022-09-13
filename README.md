@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CCharli!
 
-- 👀 I’m interested in where Psychology intersects Technology.
+- 👀 I’m interested in where Psychology intersects with Technology.
 
 - 🌱 I’m currently learning JavaScript, CSS, and HTML.
 
